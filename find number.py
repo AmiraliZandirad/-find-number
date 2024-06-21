@@ -1,4 +1,4 @@
-
+# ++=== AmiraliZandi +~{&**
 def find_num(mylist):
     myDic={}
     for item in mylist:
